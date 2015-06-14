@@ -1,3 +1,7 @@
+/* Author: Pietro Pennestri'
+mail: pietro.pennestri@gmail.co
+ver: 3.65
+*/
 #include <LiquidCrystal.h>
 #include <OneSheeld.h>
 #include <GPSShield.h>
